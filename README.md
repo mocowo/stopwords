@@ -6,8 +6,7 @@
 | 哈工大停用词表                 | hit\_stopwords.txt   |
 | 百度停用词表                   | baidu\_stopwords.txt |
 | 四川大学机器智能实验室停用词库 | scu\_stopwords.txt   |
+| 网络流传1893个停用词 | network\_spread.txt  |
 
 
-请吃辣条
-
-![](https://raw.githubusercontent.com/goto456/markdown-pictures/master/wengeblog/wechat_pay2.jpg)
+增加了一份网络流传的一份停用词 ： https://blog.csdn.net/shijiebei2009/article/details/39696571
